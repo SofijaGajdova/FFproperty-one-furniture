@@ -1,0 +1,11 @@
+{
+  "name": "p1-furniture",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx cypress run --headless"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
